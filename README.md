@@ -13,40 +13,39 @@ The system includes a central server and multiple GUI-based clients.
 - List of connected users
 - Network traffic capture and analysis with Wireshark
 
-## Project Structure
-```
-.
-├── server.py        # TCP server – manages connections and routes messages
-├── client_gui.py    # GUI-based TCP client
-├── README.md        # Project documentation
-```
+## 📂 Project Structure & Files
+* [`server.py`](server.py) – TCP server that manages connections and routes messages.
+* [`client_gui.py`](client_gui.py) – GUI-based TCP client.
+* [`Summary_Report.pdf`](Summary_Report.pdf) – Complete project summary and architecture documentation.
+* [`packets.pcapng`](packets.pcapng) – Wireshark capture file demonstrating the network traffic.
+* [`group06_ttp_chat_input.csv`](group06_ttp_chat_input.csv) – Chat input data.
+* [`raw_tcp_ip_notebook_fallback_annotated-v1.ipynb`](raw_tcp_ip_notebook_fallback_annotated-v1.ipynb) – Jupyter notebook for TCP/IP analysis.
 
 > Note: The system operates fully in-memory. No database is used or required.
 
 ## Requirements
-- Python 3
-- No external Python libraries required
-- Wireshark (for traffic analysis)
+* Python 3 (No external Python libraries required)
+* Wireshark (for traffic analysis)
 
 ## How to Run
 
-### Start the Server
+### 1. Start the Server
 ```bash
 python3 server.py
-```
 The server listens on TCP port 12345.
+```
 
-### Start Clients
+### 2. Start Clients
 Run each client in a separate terminal:
 ```bash
 python3 client_gui.py
 ```
 
 In the GUI:
-- Enter a unique username
-- Host: 127.0.0.1
-- Port: 12345
-- Click **Connect**
+1. Enter a unique username
+2. Host: 127.0.0.1
+3. Port: 12345
+4. Click **Connect**
 
 ## Client Commands
 - `/users` – Show connected users
