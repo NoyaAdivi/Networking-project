@@ -32,8 +32,8 @@ The system includes a central server and multiple GUI-based clients.
 ### 1. Start the Server
 ```bash
 python3 server.py
-The server listens on TCP port 12345.
 ```
+The server listens on TCP port 12345.
 
 ### 2. Start Clients
 Run each client in a separate terminal:
