@@ -1,10 +1,10 @@
-# TCP Chat Project – Computer Networks
+# TCP Chat Project – Computer Networks 💬
 
-## Description
+## 📌 Description
 This project implements a TCP-based Client–Server chat system that demonstrates real network traffic creation, asynchronous communication, and traffic analysis using Wireshark.  
 The system includes a central server and multiple GUI-based clients.
 
-## Features
+## ✨ Features
 - Client–Server architecture over TCP
 - Multiple concurrent clients
 - Asynchronous handling using threads
@@ -23,11 +23,11 @@ The system includes a central server and multiple GUI-based clients.
 
 > Note: The system operates fully in-memory. No database is used or required.
 
-## Requirements
+## 📋 Requirements
 * Python 3 (No external Python libraries required)
 * Wireshark (for traffic analysis)
 
-## How to Run
+## 💻 How to Run
 
 ### 1. Start the Server
 ```bash
@@ -47,16 +47,16 @@ In the GUI:
 3. Port: 12345
 4. Click **Connect**
 
-## Client Commands
+## ⌨️ Client Commands
 - `/users` – Show connected users
 - `/dm <username> <message>` – Send a private message
 - Free text – Broadcast message to all users
 
-## Asynchronous Design
+## 🔄 Asynchronous Design
 - Server: Each client is handled in a separate thread.
 - Client: Message receiving runs in a background thread, keeping the GUI responsive.
 
-## Wireshark Traffic Analysis
+## 🔍 Wireshark Traffic Analysis
 When running locally, capture traffic on the **Loopback** interface.
 
 Recommended filters:
@@ -74,9 +74,9 @@ Visible in Wireshark:
 - Sequence numbers and ACKs
 - Graceful connection termination
 
-## Use of AI Tools
+## 🤖 Use of AI Tools
 AI tools were used only as supportive aids for learning, architectural planning, code examples, and documentation refinement.  
 All code was reviewed, understood, and adapted by the project authors.
 
-## Summary
+## 📝 Summary
 This project demonstrates a complete TCP-based chat system, combining networking theory with practical implementation, asynchronous programming, GUI design, and real network traffic analysis.
