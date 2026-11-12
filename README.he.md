@@ -39,7 +39,7 @@
 </p>
 
 <a name="highlights"></a>
-<p align="center"><a href="server.py"><img src="docs/readme/highlights-he.svg" width="100%" alt="מה מיוחד בו"></a></p>
+<p align="center"><a href="#how-it-works"><img src="docs/readme/highlights-he.svg" width="100%" alt="מה מיוחד בו"></a></p>
 
 <table>
   <tr valign="top">
@@ -50,7 +50,7 @@
 </table>
 
 <a name="how-it-works"></a>
-<p align="center"><a href="Summary_Report.pdf"><img src="docs/readme/how-it-works-he.svg" width="100%" alt="איך זה עובד"></a></p>
+<p align="center"><a href="#tech-stack"><img src="docs/readme/how-it-works-he.svg" width="100%" alt="איך זה עובד"></a></p>
 
 ```mermaid
 sequenceDiagram
@@ -78,7 +78,7 @@ sequenceDiagram
 > הכול רץ בזיכרון, אין צורך במסד נתונים.
 
 <a name="tech-stack"></a>
-<p align="center"><a href="https://docs.python.org/3/library/socket.html"><img src="docs/readme/tech-stack-he.svg" width="100%" alt="טכנולוגיות"></a></p>
+<p align="center"><a href="#run-it"><img src="docs/readme/tech-stack-he.svg" width="100%" alt="טכנולוגיות"></a></p>
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-CFE6FA?style=for-the-badge&logo=python&logoColor=3F6D9F" alt="Python"></a>
@@ -90,7 +90,7 @@ sequenceDiagram
 </p>
 
 <a name="run-it"></a>
-<p align="center"><a href="client_gui.py"><img src="docs/readme/run-it-he.svg" width="100%" alt="הרצה"></a></p>
+<p align="center"><a href="#contact"><img src="docs/readme/run-it-he.svg" width="100%" alt="הרצה"></a></p>
 
 צריך **Python 3** (בלי חבילות נוספות) ואת [Wireshark](https://www.wireshark.org) בשביל הניתוח.
 
