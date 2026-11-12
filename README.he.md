@@ -34,8 +34,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/NoyaAdivi/Networking-project"><img src="docs/readme/showcase-he.png" width="100%" alt="TCP Chat: צ'אט לכמה משתמשים עם ניתוח Wireshark"></a>
+</p>
+
 <a name="highlights"></a>
-<p align="center"><a href="#highlights"><img src="docs/readme/highlights-he.svg" width="100%" alt="מה מיוחד בו"></a></p>
+<p align="center"><a href="server.py"><img src="docs/readme/highlights-he.svg" width="100%" alt="מה מיוחד בו"></a></p>
 
 <table>
   <tr valign="top">
@@ -46,7 +50,7 @@
 </table>
 
 <a name="how-it-works"></a>
-<p align="center"><a href="#how-it-works"><img src="docs/readme/how-it-works-he.svg" width="100%" alt="איך זה עובד"></a></p>
+<p align="center"><a href="Summary_Report.pdf"><img src="docs/readme/how-it-works-he.svg" width="100%" alt="איך זה עובד"></a></p>
 
 ```mermaid
 sequenceDiagram
@@ -74,7 +78,7 @@ sequenceDiagram
 > הכול רץ בזיכרון, אין צורך במסד נתונים.
 
 <a name="tech-stack"></a>
-<p align="center"><a href="#tech-stack"><img src="docs/readme/tech-stack-he.svg" width="100%" alt="טכנולוגיות"></a></p>
+<p align="center"><a href="https://docs.python.org/3/library/socket.html"><img src="docs/readme/tech-stack-he.svg" width="100%" alt="טכנולוגיות"></a></p>
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-CFE6FA?style=for-the-badge&logo=python&logoColor=3F6D9F" alt="Python"></a>
@@ -86,7 +90,7 @@ sequenceDiagram
 </p>
 
 <a name="run-it"></a>
-<p align="center"><a href="#run-it"><img src="docs/readme/run-it-he.svg" width="100%" alt="הרצה"></a></p>
+<p align="center"><a href="client_gui.py"><img src="docs/readme/run-it-he.svg" width="100%" alt="הרצה"></a></p>
 
 צריך **Python 3** (בלי חבילות נוספות) ואת [Wireshark](https://www.wireshark.org) בשביל הניתוח.
 
@@ -118,7 +122,7 @@ sequenceDiagram
 <sub>🤖 נעזרנו בכלי AI רק ללמידה, לתכנון ולתיעוד. את כל הקוד בדקנו, הבנו והתאמנו בעצמנו.</sub>
 
 <a name="contact"></a>
-<p align="center"><a href="#contact"><img src="docs/readme/footer-he.svg" width="100%" alt="נבנה על ידי נויה אדיבי"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/noya-adivi/"><img src="docs/readme/footer-he.svg" width="100%" alt="נוצר על ידי נויה אדיבי"></a></p>
 
 <p align="center">
   <a href="https://github.com/NoyaAdivi/Networking-project"><img src="https://img.shields.io/badge/%D7%9C%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98-FFD5C9?style=for-the-badge&logo=github&logoColor=A8483A" alt="לפרויקט"></a>

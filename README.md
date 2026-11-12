@@ -32,8 +32,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/NoyaAdivi/Networking-project"><img src="docs/readme/showcase-en.png" width="100%" alt="TCP Chat: a multi-client chat with Wireshark analysis"></a>
+</p>
+
 <a name="highlights"></a>
-<p align="center"><a href="#highlights"><img src="docs/readme/highlights-en.svg" width="100%" alt="Highlights"></a></p>
+<p align="center"><a href="server.py"><img src="docs/readme/highlights-en.svg" width="100%" alt="Highlights"></a></p>
 
 <table>
   <tr valign="top">
@@ -44,7 +48,7 @@
 </table>
 
 <a name="how-it-works"></a>
-<p align="center"><a href="#how-it-works"><img src="docs/readme/how-it-works-en.svg" width="100%" alt="How it works"></a></p>
+<p align="center"><a href="Summary_Report.pdf"><img src="docs/readme/how-it-works-en.svg" width="100%" alt="How it works"></a></p>
 
 ```mermaid
 sequenceDiagram
@@ -72,7 +76,7 @@ sequenceDiagram
 > Everything runs in memory. No database is needed.
 
 <a name="tech-stack"></a>
-<p align="center"><a href="#tech-stack"><img src="docs/readme/tech-stack-en.svg" width="100%" alt="Tech Stack"></a></p>
+<p align="center"><a href="https://docs.python.org/3/library/socket.html"><img src="docs/readme/tech-stack-en.svg" width="100%" alt="Tech Stack"></a></p>
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-CFE6FA?style=for-the-badge&logo=python&logoColor=3F6D9F" alt="Python"></a>
@@ -84,7 +88,7 @@ sequenceDiagram
 </p>
 
 <a name="run-it"></a>
-<p align="center"><a href="#run-it"><img src="docs/readme/run-it-en.svg" width="100%" alt="Run it"></a></p>
+<p align="center"><a href="client_gui.py"><img src="docs/readme/run-it-en.svg" width="100%" alt="Run it"></a></p>
 
 Requires **Python 3** (no extra packages) and [Wireshark](https://www.wireshark.org) for the analysis.
 
@@ -116,7 +120,7 @@ Requires **Python 3** (no extra packages) and [Wireshark](https://www.wireshark.
 <sub>🤖 AI tools were used only to support learning, planning and documentation. All code was reviewed, understood and adapted by the authors.</sub>
 
 <a name="contact"></a>
-<p align="center"><a href="#contact"><img src="docs/readme/footer-en.svg" width="100%" alt="Built by Noya Adivi"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/noya-adivi/"><img src="docs/readme/footer-en.svg" width="100%" alt="Built by Noya Adivi"></a></p>
 
 <p align="center">
   <a href="https://github.com/NoyaAdivi/Networking-project"><img src="https://img.shields.io/badge/Open_project-FFD5C9?style=for-the-badge&logo=github&logoColor=A8483A" alt="Open project"></a>
