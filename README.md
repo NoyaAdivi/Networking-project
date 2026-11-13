@@ -114,7 +114,7 @@ Requires **Python 3** (no extra packages) and [Wireshark](https://www.wireshark.
 | [`Summary_Report.pdf`](Summary_Report.pdf) | Full project summary and architecture |
 | [`packets.pcapng`](packets.pcapng) | Wireshark capture of the traffic |
 | [`group06_ttp_chat_input.csv`](group06_ttp_chat_input.csv) | Chat input data |
-| [`raw_tcp_ip_notebook_fallback_annotated-v1.ipynb`](raw_tcp_ip_notebook_fallback_annotated-v1.ipynb) | Annotated TCP/IP analysis notebook |
+| [`tcp_ip_analysis.ipynb`](tcp_ip_analysis.ipynb) | Annotated TCP/IP analysis notebook |
 </details>
 
 <sub>🤖 AI tools were used only to support learning, planning and documentation. All code was reviewed, understood and adapted by the authors.</sub>

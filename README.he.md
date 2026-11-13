@@ -116,7 +116,7 @@ sequenceDiagram
 | [`Summary_Report.pdf`](Summary_Report.pdf) | סיכום מלא של הפרויקט והארכיטקטורה |
 | [`packets.pcapng`](packets.pcapng) | הקלטת Wireshark של התעבורה |
 | [`group06_ttp_chat_input.csv`](group06_ttp_chat_input.csv) | נתוני הקלט של הצ'אט |
-| [`raw_tcp_ip_notebook_fallback_annotated-v1.ipynb`](raw_tcp_ip_notebook_fallback_annotated-v1.ipynb) | מחברת עם ניתוח TCP/IP מוסבר |
+| [`tcp_ip_analysis.ipynb`](tcp_ip_analysis.ipynb) | מחברת עם ניתוח TCP/IP מוסבר |
 </details>
 
 <sub>🤖 נעזרנו בכלי AI רק ללמידה, לתכנון ולתיעוד. את כל הקוד בדקנו, הבנו והתאמנו בעצמנו.</sub>
